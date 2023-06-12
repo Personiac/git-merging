@@ -25,7 +25,7 @@
 
 ### Branching
 
-- Branch
+- Branch (Create and switch into branch)
 ```
 
 git branch FeatureA
