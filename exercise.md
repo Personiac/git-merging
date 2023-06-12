@@ -17,10 +17,14 @@
 
 
 
-### Initialize Git Repo
-- git init
+### Reference
 
-### Branching & Merging
+- https://github.com/craigmckeachie/yearup-pgh-spring-2023/tree/main/git
+
+- https://gist.github.com/craigmckeachie/3376f54b1f471ca3e2b9fe5390eddb39
+
+### Branching
+
 - Branch
 ```
 
